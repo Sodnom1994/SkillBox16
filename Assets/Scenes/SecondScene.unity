@@ -149,7 +149,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dummyAnimator: {fileID: 4487211616602867737}
-  movement: {fileID: 0}
+  movement: {fileID: 4487211616602867738}
 --- !u!4 &89836837
 Transform:
   m_ObjectHideFlags: 0
